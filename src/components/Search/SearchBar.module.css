@@ -1,0 +1,29 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 15rem;
+  margin-bottom: 15rem;
+}
+
+.input {
+  width: 30%;
+  padding: 1rem 1.5rem;
+  font-size: 1.6rem;
+  border: 0.4rem solid #67e0a3;
+  border-radius: 2rem;
+  outline: none;
+  margin: 2rem 2rem;
+}
+
+.button {
+  width: 20%;
+  padding: 1rem 1.5rem;
+  border: none;
+  background-color: #67e0a3;
+  color: #181d27;
+  font-size: 2rem;
+  cursor: pointer;
+  border-radius: 1rem;
+  font-weight: bold;
+}
